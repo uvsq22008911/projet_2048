@@ -73,7 +73,7 @@ def play():
 def exit():
     return root.destroy
 
-
+yurxyrkl
 
 
 ################################################BOUTONS##################################
